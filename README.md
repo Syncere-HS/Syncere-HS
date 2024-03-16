@@ -1,4 +1,4 @@
-<h1 align="center">Name: Syncere</h1>
+<h1 align="center">Syncere</h1>
 
 
 <p align="left">
